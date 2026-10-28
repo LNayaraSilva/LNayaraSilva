@@ -50,15 +50,25 @@ Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 - **Análise de dados:** tratamento e visualização de dados com Python e Pandas.
 - **Sistemas de gestão:** aplicações voltadas à organização de processos e informações.
 
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LNayaraSilva&show_icons=true&theme=tokyonight&locale=pt-br)
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LNayaraSilva&theme=github_dark"
+    alt="Estatísticas do GitHub"
+    height="180"
+  />
 
-![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LNayaraSilva&layout=compact&theme=tokyonight)
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LNayaraSilva&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+    height="180"
+  />
 
 </div>
+
 
 ## 📫 Entre em contato
 
