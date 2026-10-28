@@ -1,13 +1,74 @@
-<h1 align="center">Hi 👋, I'm Laís Nayara</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lnayarasilva&label=Profile%20views&color=0e75b6&style=flat" alt="lnayarasilva" /> </p>
+# Olá, eu sou a Laís Nayara! 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedora em formação
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Apaixonada por tecnologia, desenvolvimento de software e aprendizado contínuo.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lnayarasilva&show_icons=true&locale=en" alt="lnayarasilva" /></p>
+[![E-mail](https://img.shields.io/badge/Email-laysnaayara%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laysnaayara@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-LNayaraSilva-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LNayaraSilva)
+
+</div>
+
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Faculdade Senac**.
+- 🚀 Interesse em **desenvolvimento web, APIs, dados e soluções tecnológicas**.
+- 🌱 Aprimorando conhecimentos em **Python, JavaScript, React e bancos de dados**.
+- 🤝 Gosto de trabalhar em equipe, aprender novas ferramentas e transformar ideias em projetos.
+- 📍 Recife, Pernambuco — Brasil.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+## 📌 Áreas e projetos de interesse
+
+- **Desenvolvimento web:** aplicações com interfaces responsivas e integração com APIs.
+- **Internet das Coisas (IoT):** monitoramento de temperatura e umidade com ESP32 e sensores.
+- **Análise de dados:** tratamento e visualização de dados com Python e Pandas.
+- **Sistemas de gestão:** aplicações voltadas à organização de processos e informações.
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LNayaraSilva&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LNayaraSilva&layout=compact&theme=tokyonight)
+
+</div>
+
+## 📫 Entre em contato
+
+📧 **E-mail:** [laysnaayara@gmail.com](mailto:laysnaayara@gmail.com)  
+💻 **GitHub:** [github.com/LNayaraSilva](https://github.com/LNayaraSilva)
+
+---
+
+<div align="center">
+
+✨ *Sempre aprendendo, desenvolvendo e explorando novas possibilidades na tecnologia.*
+
+</div>
